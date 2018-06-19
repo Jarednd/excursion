@@ -7,7 +7,7 @@ body {
 
 
 
-h1 {
+#top h1 {
 	color: white;
 	font-weight: normal;
 	font-size: 50px;
@@ -19,3 +19,18 @@ h1 {
 	font-size: 16px;
 }
 
+#bottom h1 {
+	color: white;
+	font-weight: 300;
+	font-size: 42px;
+
+}
+#bottom h2 {
+	color: gray;
+	font-size: 21px;
+}
+
+h3{
+	color: gray;
+	text-align: right;
+}
